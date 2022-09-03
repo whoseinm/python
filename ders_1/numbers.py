@@ -1,0 +1,5 @@
+a=(input("adiniz?:"))
+b=(input("soyadiniz? "))
+c=int(input("yasiniz? "))
+d=(input("unvan "))
+print("tebrikler siz artiq sge nin uzvuzsunuz")
